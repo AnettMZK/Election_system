@@ -1,0 +1,9 @@
+﻿  PROYECTO2_anett-rodriguez.cpp
+C:\Users\rodri\source\repos\PROYECTO2_anett-rodriguez\PROYECTO2_anett-rodriguez\PROYECTO2_anett-rodriguez.cpp(63,9): warning C4102: 'defautl': etiqueta sin referencia
+  election.cpp
+C:\Users\rodri\source\repos\PROYECTO2_anett-rodriguez\PROYECTO2_anett-rodriguez\election.cpp(39,31): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\rodri\source\repos\PROYECTO2_anett-rodriguez\PROYECTO2_anett-rodriguez\election.cpp(232,23): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\rodri\source\repos\PROYECTO2_anett-rodriguez\PROYECTO2_anett-rodriguez\election.cpp(234,31): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\rodri\source\repos\PROYECTO2_anett-rodriguez\PROYECTO2_anett-rodriguez\election.cpp(251,26): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  PROYECTO2_anett-rodriguez.vcxproj -> C:\Users\rodri\source\repos\PROYECTO2_anett-rodriguez\x64\Debug\PROYECTO2_anett-rodriguez.exe
